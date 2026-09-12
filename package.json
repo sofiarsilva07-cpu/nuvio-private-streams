@@ -1,0 +1,12 @@
+{
+  "name": "nuvio-private-streams",
+  "version": "1.0.0",
+  "description": "Private stream addon for Stremio/Nuvio",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
